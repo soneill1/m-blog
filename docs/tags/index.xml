@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Tangerine Vitably</title>
+    <link>https://example.com/tags/</link>
+    <description>Recent content in Tags on Tangerine Vitably</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Sean Brian - All rights reserved</copyright>
+    <lastBuildDate>Sun, 07 Oct 2018 11:39:13 +0200</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Interesting Movies</title>
+      <link>https://example.com/tags/interesting-movies/</link>
+      <pubDate>Sun, 07 Oct 2018 11:39:13 +0200</pubDate>
+      
+      <guid>https://example.com/tags/interesting-movies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interesting Test</title>
+      <link>https://example.com/tags/interesting-test/</link>
+      <pubDate>Sun, 07 Oct 2018 11:40:11 +0200</pubDate>
+      
+      <guid>https://example.com/tags/interesting-test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>https://example.com/tags/tech/</link>
+      <pubDate>Sun, 07 Oct 2018 11:39:16 +0200</pubDate>
+      
+      <guid>https://example.com/tags/tech/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
