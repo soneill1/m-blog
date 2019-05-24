@@ -5,7 +5,7 @@ theme = "mediumish"
 summaryLength = 25
 copyright = "Sean Brian - All rights reserved"
 enableEmoji = true
-#disqusShortname = "your-shortname-here"
+disqusShortname = "vitably.netlify"
 #googleAnalytics = "UA-1XXXXXXX1-1"
 
 [outputs]

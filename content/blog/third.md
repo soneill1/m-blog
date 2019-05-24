@@ -12,3 +12,5 @@ Favorite new movies on Netflix
 Hell or HighWater
 The Greenroom
 Ex Machinima
+The Imitation Game
+Moonlight
