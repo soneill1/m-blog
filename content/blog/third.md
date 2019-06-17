@@ -14,3 +14,5 @@ The Greenroom
 Ex Machinima
 The Imitation Game
 Moonlight
+Swiss Army Man
+Dallas Buyers Club
